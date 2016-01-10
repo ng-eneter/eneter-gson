@@ -21,7 +21,10 @@ import com.google.gson.Gson;
 import eneter.messaging.dataprocessing.serializing.ISerializer;
 
 /**
- * JSON serializer for Eneter based on Gson library from Google.
+ * JSON serializer for Eneter Messaging Framework based on Gson library from Google.
+ * 
+ * This serializer is intended to be used with Eneter Messaging Framework to serialize / deserialize messages.
+ * To use this serializer you need reference eneter-messaging.jar or eneter-messaging-android.jar
  *
  */
 public class JsonSerializer implements ISerializer
