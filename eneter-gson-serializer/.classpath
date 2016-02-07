@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="D:/Products/Temp/JavaPlatforms/Eneter/Eneter.Messaging.Framework/v7.0.0/Java6/eneter-messaging-7.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/Products/LinkedLibs/Gson/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Products/Temp/JavaPlatforms/Eneter/Eneter.Messaging.Framework/v7.0.1/Java6/eneter-messaging-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Products/LinkedLibs/Gson/gson-2.2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
